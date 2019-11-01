@@ -175,7 +175,7 @@ a.list-group-item {
   display: flex;
   flex-flow: row;
   background-color: #ff9c00ba;
-  margin: 20px;
+  margin: 10px;
   text-align: center;
   justify-content: center;
   width: 80%;
